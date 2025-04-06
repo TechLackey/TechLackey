@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CI/CD pipelines, code review, game development, app scripting, automation, and whatever else I can get my hands on!
 - 📫 How to reach me ~ Just on here for now!
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: I'm also a somewhat prolific stage performer, voice-over artist, and musician! You may have even heard me a time or two without knowing! ;) 
+- ⚡ Fun fact: I'm also a somewhat prolific stage performer, voice-over artist, and musician!
 
 <!---
 TechLackey/TechLackey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
